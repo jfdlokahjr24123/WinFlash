@@ -1,0 +1,73 @@
+{
+  "windows_versions": [
+    {
+      "key": "Windows11_X64",
+      "name": "Windows 11 64位",
+      "size": "5.8 GB",
+      "wim_file": "Windows11_X64.wim",
+      "download_url": "",
+      "md5": "",
+      "allow_secure_boot": true
+    },
+    {
+      "key": "Windows10_X64",
+      "name": "Windows 10 64位",
+      "size": "4.5 GB",
+      "wim_file": "Windows10_X64.wim",
+      "download_url": "",
+      "md5": "",
+      "allow_secure_boot": true
+    },
+    {
+      "key": "Windows8.1_X64",
+      "name": "Windows 8.1 64位",
+      "size": "4.3 GB",
+      "wim_file": "Windows8.1_X64.wim",
+      "download_url": "",
+      "md5": "",
+      "allow_secure_boot": true
+    },
+    {
+      "key": "Windows7_X64",
+      "name": "Windows 7 64位",
+      "size": "2.37 GB",
+      "wim_file": "Windows7_X64.esd",
+      "download_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/Windows7.esd",
+      "md5": "14e1dbb038655750bf42d1e6231e245a",
+      "allow_secure_boot": false,
+	  "default": true
+    },
+    {
+      "key": "Windows7_X86",
+      "name": "Windows 7 32位",
+      "size": "1.8 GB",
+      "wim_file": "Windows7_X86.wim",
+      "download_url": "",
+      "md5": "",
+      "allow_secure_boot": false
+    }
+  ],
+  "pe_config": {
+    "versions": [
+      {
+        "name": "WePE 64位 220MB",
+        "wim_file": "WEPE64.WIM",
+        "sdi_file": "WEPE64.SDI",
+        "wim_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/WEPE64.WIM",
+        "sdi_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/WEPE64.SDI",
+        "wim_md5": "73d7c736bee7dc7c0130052e31bf812b",
+        "sdi_md5": "e99240efc88404d5e6435f2815dd0d32"
+      },
+      {
+        "name": "杏雨梨云 32位 190MB",
+        "wim_file": "XYLYX86PE.WIM",
+        "sdi_file": "XYLYX86.SDI",
+        "wim_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/XYLYX86PE.wim",
+        "sdi_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/XYLYX86.SDI",
+        "wim_md5": "0cb3c575970cd8239dc39988a6305da9",
+        "sdi_md5": "22d9945b4aae36dd59620a918f2e65f4"
+      }
+    ],
+    "default": 0
+  }
+}
