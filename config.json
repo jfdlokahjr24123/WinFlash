@@ -50,7 +50,7 @@
   "pe_config": {
     "versions": [
       {
-        "name": "WePE 64位 220MB",
+        "name": "微PE(推荐) 218MB",
         "wim_file": "WEPE64.WIM",
         "sdi_file": "WEPE64.SDI",
         "wim_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/WEPE64.WIM",
@@ -59,10 +59,10 @@
         "sdi_md5": "e99240efc88404d5e6435f2815dd0d32"
       },
       {
-        "name": "杏雨梨云 32位 190MB",
-        "wim_file": "XYLYX86PE.WIM",
+        "name": "杏雨梨云X86 190MB",
+        "wim_file": "XYLYX86.WIM",
         "sdi_file": "XYLYX86.SDI",
-        "wim_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/XYLYX86PE.wim",
+        "wim_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/XYLYX86.wim",
         "sdi_url": "https://t5988i5178.zicp.fun/d/%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F/WinFlash/XYLYX86.SDI",
         "wim_md5": "0cb3c575970cd8239dc39988a6305da9",
         "sdi_md5": "22d9945b4aae36dd59620a918f2e65f4"
